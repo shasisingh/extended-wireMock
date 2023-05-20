@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/api/v1/customers/initiation/profiles/.*"
+  },
+  "response": {
+    "proxyBaseUrl": "https://localhost:8446"
+  }
+}

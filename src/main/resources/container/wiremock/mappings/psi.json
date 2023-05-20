@@ -1,0 +1,9 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/hhv_psi_rest/api/v1/psi/initiation/.*"
+  },
+  "response": {
+    "proxyBaseUrl": "http://localhost:9080"
+  }
+}

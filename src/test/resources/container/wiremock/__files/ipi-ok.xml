@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:rpy="http://schemas.rabobank.nl/cs/rom/InitiatePaymentInterchange/3/Rpy">
+    <soap:Body>
+        <rpy:InitiatePaymentInterchange_Rpy>
+            <rpy:Ok>true</rpy:Ok>
+        </rpy:InitiatePaymentInterchange_Rpy>
+    </soap:Body>
+</soap:Envelope>

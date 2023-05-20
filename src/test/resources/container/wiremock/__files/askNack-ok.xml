@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<SOAP-ENV:Envelope xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns2="http://schemas.rabobank.nl/cs/rom/NotifyPaymentOrdersStatus/2/Rpy">
+    <SOAP-ENV:Header/>
+    <SOAP-ENV:Body>
+        <ns2:NotifyPaymentOrdersStatus_Rpy >
+            <ns2:Ok>OK</ns2:Ok>
+        </ns2:NotifyPaymentOrdersStatus_Rpy>
+    </SOAP-ENV:Body>
+</SOAP-ENV:Envelope>

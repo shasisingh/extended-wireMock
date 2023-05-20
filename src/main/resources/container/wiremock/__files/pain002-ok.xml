@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:rpy="http://schemas.xyz.nl/cs/system/StatusReport/2/Rpy">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <rpy:StatusReport>
+            <rpy:Ok>OK</rpy:Ok>
+        </rpy:StatusReport>
+    </soapenv:Body>
+</soapenv:Envelope>

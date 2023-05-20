@@ -1,0 +1,13 @@
+{
+  "request": {
+    "url": "/service/v1/notifyPaymentOrdersStatusReport",
+    "method": "POST"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "pain002-ok.xml",
+    "headers": {
+      "Content-Type": "text/xml; charset=utf-8"
+    }
+  }
+}

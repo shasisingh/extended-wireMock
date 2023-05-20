@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:rpy="http://schemas.rabobank.nl/cs/rom/NotifyPaymentOrdersStatusReport/1/Rpy">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <rpy:NotifyPaymentOrdersStatusReport_Rpy>
+            <rpy:Ok>OK</rpy:Ok>
+        </rpy:NotifyPaymentOrdersStatusReport_Rpy>
+    </soapenv:Body>
+</soapenv:Envelope>

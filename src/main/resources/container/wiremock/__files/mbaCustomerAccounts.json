@@ -1,0 +1,12 @@
+{
+  "siebelId":"000000000201703",
+  "name":"CUSTOMER NAME 3",
+  "accountDetails":[
+    {
+      "accountFormat":"BBAN",
+      "currency":"SGD",
+      "defaultBic":"UOVBSGSGXXX",
+      "accountType":"MB"
+    }
+  ]
+}

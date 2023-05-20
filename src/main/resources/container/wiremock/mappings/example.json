@@ -1,0 +1,11 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/example"
+  },
+  "response": {
+    "status": 200,
+    "body": "Example reply\n",
+    "transformers": ["response-template"]
+  }
+}

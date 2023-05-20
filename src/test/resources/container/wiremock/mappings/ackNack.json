@@ -1,0 +1,13 @@
+{
+  "request": {
+    "url": "/service/v2/notifyPaymentOrdersStatus",
+    "method": "POST"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "askNack-ok.xml",
+    "headers": {
+      "Content-Type": "text/xml; charset=utf-8"
+    }
+  }
+}

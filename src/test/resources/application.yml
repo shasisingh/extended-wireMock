@@ -1,0 +1,19 @@
+#Do not record received requests. Typically, needed during load testing to avoid JVM heap exhaustion.
+wiremock:
+    requestJournalDisabled: false
+    verboseLoggingEnabled: false
+
+server:
+  ssl:
+    key-store: classpath:springboot.jks
+    key-store-password: test01
+    key-store-type: JKS
+    key-alias: https
+    key-password: test01
+  port: 8443
+
+container:
+  jar:
+    root: /container
+  file:
+    root: ${java.io.tmpdir}/e2e-tools

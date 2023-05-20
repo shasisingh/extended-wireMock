@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/"
+               xmlns:rpy="http://schemas.xyz.nl/cs/system/Interchange/2/Rpy">
+    <soap:Body>
+        <rpy:Interchange>
+            <rpy:Ok>true</rpy:Ok>
+        </rpy:Interchange>
+    </soap:Body>
+</soap:Envelope>
