@@ -14,7 +14,7 @@ idea behind this code base is...
 
 | method  | url path                    | description                        |
 | --------| ----------------------------| -----------------------------------|
-| GET     | /stub/admin/mappings        | retrieve all mapping               |
+| GET     | /stub/admin/mappings        | retrieve all mappings              |
 | POST    | /stub/admin/mappings        | create new mapping                 |
 | GET     | /stub/admin/requests        | retrieve all request/responses     |
 | DELETE  | /stub/admin/requests        | delete stored requests/responses   |
